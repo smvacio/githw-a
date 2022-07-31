@@ -1,7 +1,7 @@
-# githw-a
+
 # Hw Assignment One
 
-# Description
+## Description
 
 Reconfigure a website using semantic HTML and follow accessibility guidelines.
 
